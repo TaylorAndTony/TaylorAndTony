@@ -1,14 +1,12 @@
-👋 Hi, I’m @TaylorAndTony
+👋 Hi, I’m @TaylorAndTony, an amateur developer who isn't in computer major.
 
-👀 I’m interested in Python and other cool stuff.
+👀 Interested in Python, C# desktop gui, and I combine them with my major.
 
-🔶 I like watching Anime such as Re: zero and there will be some anime-style in my softwares.
+🚀 JavaScript can help me in my daily, boring jobs.
 
-🎬 I also like video editing and photo editing, Premiere Pro and Photoshop are awesome tools for me.
+🔶 I like Animes, so there will be some anime-style in my softwares.
 
-📷 Photography is charming, and I am interested in combining that with algorithms.
-
-🎮 Minecraft, Titanfall 2, Noita and Genshin Impact are the games I like.
+🎮 Open world games such as Minecraft, Noita, are attractive to me.
 
 
 <!---
