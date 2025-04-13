@@ -1,12 +1,12 @@
-👋 Hi, I’m @TaylorAndTony, an amateur developer who isn't in computer major.
+👋 Hi, I’m @TaylorAndTony, an amateur developer who isn't major in compute.
 
-👀 Interested in Python, C# desktop gui, and I combine them with my major.
+👀 Interested in Python, C# desktop GUI, and a little bit frontend dev.
 
 🚀 JavaScript can help me in my daily, boring jobs.
 
-🔶 I like Animes, so there will be some anime-style in my softwares.
+🧮 Mostly work on Windows, but Linux is also my choice.
 
-🎮 Open world games such as Minecraft, Noita, are attractive to me.
+🕹️ I like animes, and open-world games.
 
 
 <!---
